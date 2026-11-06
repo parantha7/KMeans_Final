@@ -85,8 +85,9 @@ plt.show()
 
 ## OUTPUT:
 <img width="941" height="717" alt="image" src="https://github.com/user-attachments/assets/c9c19b2d-5184-4849-b7cc-98e2b014df00" />
+<img width="1273" height="877" alt="image" src="https://github.com/user-attachments/assets/023d210d-5a65-45e8-bba4-04e861c3c657" />
 
-<img width="1112" height="867" alt="image" src="https://github.com/user-attachments/assets/90864d7f-49c4-4788-b67e-bc88ae696a0d" />
+
 
 ## RESULT:
 The K-Means Clustering algorithm was implemented successfully, and the customers were grouped into clusters based on their Annual Income and Spending Score. The resulting clusters were visualized using a scatter plot.
